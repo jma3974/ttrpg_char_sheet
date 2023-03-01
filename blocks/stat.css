@@ -1,0 +1,20 @@
+.stat {
+    display: grid;
+    gap: 20px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.stat__stats {
+  
+  
+  /*margin-right: 20px;*/
+  padding-right: 20px;
+  color: green;
+  border: red 1px solid;
+}
+
+.stat__stats span {
+    padding-right: 20px;
+    border: blue 1pt solid;
+}
